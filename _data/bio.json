@@ -6,7 +6,7 @@
     "email": "limjy.kor@gmail.com",
     "phone": "+8210-2954-0906",
     "website": "https://limjongyoon.github.io",
-    "summary": "I am a multisensory researcher in LifeStyle Media Group at the University of Sogang. /n/n Previously I obtained my M.Eng in Art&technology at the University of Sogang and B.Eng. in Electrical Engineering in the College of Engineering at the University of Soongsil.",
+    "summary": "I am a multisensory researcher in LifeStyle Media Group at the University of Sogang. <br/><br/> Previously I obtained my M.Eng in Art&technology at the University of Sogang and B.Eng. in Electrical Engineering in the College of Engineering at the University of Soongsil.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -52,8 +52,7 @@
         "C",
         "C++",
         "C#",
-        "Python",
-        "Javascript",
+        "Python"
       ]
     },
     {
