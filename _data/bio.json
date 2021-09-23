@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/aboutme(1).png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Lim JongYoon",
+    "label": "Researcher",
+    "picture": "https://limjongyoon.github.io/images/aboutme(1).png",
+    "email": "limjy.kor@gmail.com",
+    "phone": "+8210-2954-0906",
+    "website": "https://limjongyoon.github.io",
+    "summary": "I am a multisensory researcher in LifeStyle Media Group at the University of Sogang.  Previously I obtained my M.Eng in Art&technology at the University of Sogang and B.Eng. in Electrical Engineering in the College of Engineering at the University of Soongsil.
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "Seoul",
+      "countryCode": "KOREA",
+      "region": "Seoul"
     },
     "profiles": [
       {
-        "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
         "network": "linkedin",
@@ -63,10 +63,9 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
+        "C#",
+        "Python",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
