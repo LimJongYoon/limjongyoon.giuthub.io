@@ -16,24 +16,9 @@
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
-      },
-      {
         "network": "instagram",
         "username": "limjongyoon",
         "url": "https://www.instagram.com/lim_ited_edition/"
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "",
-        "username": "",
-        "url": ""
       }
     ]
   },
@@ -41,8 +26,6 @@
     {
       "name": "VR/AR",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -51,10 +34,15 @@
       ]
     },
     {
+      "name": "wearable devices",
+      "keywords": [
+      ]
+    },
+    {
       "name": "robotics",
       "keywords": [
       ]
-    }
+    
   ],
   "skills": [
     {
