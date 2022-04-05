@@ -12,7 +12,7 @@ labels:
 summary: It is a haptic VR controller UI/UX design study that allows senior citizens(over 65s) to easily learn and operate VR content without being disturbed by immersion.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/birdVR_header.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
