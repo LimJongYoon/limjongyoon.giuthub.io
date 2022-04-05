@@ -3,12 +3,12 @@ layout: project
 type: project
 image: images/birdVR.png
 title: birdVR
-permalink: projects/birdVR
+permalink: projects/UX design that enhances the connection between the form of the VR controller and the interaction within the content
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-12
 labels:
-  - Lisp
-  - GitHub
+  - HCIK(HCI Korea) 2022 paper
+  
 summary: It is a haptic VR controller UI/UX design study that allows senior citizens(over 65s) to easily learn and operate VR content without being disturbed by immersion.
 ---
 
