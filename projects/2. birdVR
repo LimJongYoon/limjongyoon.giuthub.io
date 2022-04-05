@@ -1,15 +1,15 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/birdVR.png
+title: birdVR
+permalink: projects/birdVR
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-04-12
 labels:
   - Lisp
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: It is a haptic VR controller UI/UX design study that allows senior citizens(over 65s) to easily learn and operate VR content without being disturbed by immersion.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
