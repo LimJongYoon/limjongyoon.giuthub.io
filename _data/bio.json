@@ -92,7 +92,7 @@
   ],
   "work": [
     {
-      "company": "Canon Semicondoctor Engineering Korea",
+      "company": "Canon Korea",
       "position": "Mechanical & Electrical engineer",
       "website": "",
       "startDate": "2017-10-01",
@@ -106,14 +106,15 @@
       ]
     },
     {
-      "company": "Panopticon (Start-up company)",
+      "company": "Panopticon Korea (Start-up company)",
       "position": "PM, Developer",
       "website": "",
       "startDate": "2019-05-01",
       "endDate": "2021-06-30",
       "summary": "Product Design & Software develop",
       "highlights": [
-        "Planning of a Helth-care device called Smart Cradle & Smart patch"
+        "Planning and prototyping of a Helth-care device called Smart Cradle & Smart patch",
+        "Produce dedicated applications, test electronic components(sensors) and build circuits. Product Appearance Design"
       ]
     },
     {
@@ -157,22 +158,28 @@
   ],
   "awards": [
     {
+      "title": "Patent",
+      "date": "2020",
+      "awarder": "the Korean Intellectual Property Office",
+      "summary": "design patent"
+    },
+    {
       "title": "A+ Scholarship",
       "date": "2014-2017",
       "awarder": "U.Soongsil",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "summary": "Receive a grade scholarship for all semesters"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "hhhhhhh",
+      "reference": "sdsdsdsdsdd"
     }
   ]
 }
