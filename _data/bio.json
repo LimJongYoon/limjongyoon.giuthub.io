@@ -74,22 +74,21 @@
   ],
   "education": [
     {
-      "institution": "Soongsil University , Seoul",
-      "area": "Electro Engineering",
-      "studyType": "B.S.",
-      "startDate": "2014-03-01",
-      "endDate": "2018-02-28",
-      "gpa": "4.0",
-      "courses": [
-      ]
-    }
-    
-    {
       "institution": "Sugang University , Seoul",
       "area": "Art & Technology (HCI)",
       "studyType": "M.A.S.",
       "startDate": "2019-09-01",
       "endDate": "2021-08-30",
+      "gpa": "4.0",
+      "courses": [
+      ]
+    }
+    {
+      "institution": "Soongsil University , Seoul",
+      "area": "Electro Engineering",
+      "studyType": "B.S.",
+      "startDate": "2014-03-01",
+      "endDate": "2018-02-28",
       "gpa": "4.0",
       "courses": [
       ]
