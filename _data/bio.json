@@ -74,39 +74,60 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Soongsil University , Seoul",
+      "area": "Electro Engineering",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2014-03-01",
+      "endDate": "2018-02-28",
+      "gpa": "4.0",
+      "courses": [
+      ]
+    }
+    
+    {
+      "institution": "Sugang University , Seoul",
+      "area": "Art & Technology (HCI)",
+      "studyType": "M.A.S.",
+      "startDate": "2019-09-01",
+      "endDate": "2021-08-30",
+      "gpa": "4.0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Canon Semicondoctor Engineering Korea",
+      "position": "Mechanical & Electrical engineer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2017-10-01",
+      "endDate": "2019-05-01",
+      "summary": "Semicondoctor engineering",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Factory Facility set-up and maintenance",
+        "Equipment programming to increase semiconductor yield by analyzing lens data"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Panopticon (Start-up company)",
+      "position": "PM, Developer",
+      "website": "",
+      "startDate": "2019-05-01",
+      "endDate": "2021-06-30",
+      "summary": "Product Design & Software develop",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Planning of a Helth-care device called 'Smart Cradle & Smart patch'",
+      ]
+    }
+    {
+      "company": "Life-style Lab (U.Sogang)",
+      "position": "PM",
+      "website": "",
+      "startDate": "2021-09-01",
+      "endDate": "2022-01-30",
+      "summary": "Product Design",
+      "highlights": [
+        "Planning of Multi-Modality devices'",
       ]
     }
   ],
@@ -139,9 +160,9 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "A+ Scholarship",
+      "date": "2014-2017",
+      "awarder": "U.Soongsil",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
