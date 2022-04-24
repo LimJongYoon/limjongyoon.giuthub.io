@@ -61,14 +61,10 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Engineering",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Circuit design",
       ]
     }
   ],
@@ -104,7 +100,9 @@
       "summary": "Semicondoctor engineering",
       "highlights": [
         "Factory Facility set-up and maintenance",
-        "Equipment programming to increase semiconductor yield by analyzing lens data"
+        "Equipment programming to increase semiconductor yield by analyzing lens data",
+        "Dispatch experience at Canon Inc (Japan), 6 months",
+        "Business-trip to Infineon Tech (Germany), 3 months"
       ]
     },
     {
