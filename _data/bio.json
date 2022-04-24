@@ -51,20 +51,28 @@
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
-        "C#",
         "Python"
       ]
     },
     {
-      "name": "Engineering",
+      "name": "Tools and Frameworks",
       "level": "",
       "keywords": [
-        "Circuit design",
+        "Unity",
+        "Blender",
+        "SPSS"
+      ]
+    },
+    {
+      "name": "Engineering Skills",
+      "level": "",
+      "keywords": [
+        "Circuit design"
       ]
     }
   ],
