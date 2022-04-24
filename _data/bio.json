@@ -93,11 +93,11 @@
   "work": [
     {
       "company": "Canon Korea",
-      "position": "Mechanical & Electrical engineer",
+      "position": "Engineer",
       "website": "",
       "startDate": "2017-10-01",
       "endDate": "2019-05-01",
-      "summary": "Semicondoctor engineering",
+      "summary": "Mechanical & Electrical engineering",
       "highlights": [
         "Factory Facility set-up and maintenance",
         "Equipment programming to increase semiconductor yield by analyzing lens data",
@@ -107,7 +107,7 @@
     },
     {
       "company": "Panopticon Korea (Start-up company)",
-      "position": "PM, Developer",
+      "position": "PM, Software Developer",
       "website": "",
       "startDate": "2019-05-01",
       "endDate": "2021-06-30",
@@ -164,7 +164,7 @@
       "summary": "design patent"
     },
     {
-      "title": "A+ Scholarship",
+      "title": "Scholarship",
       "date": "2014-2017",
       "awarder": "U.Soongsil",
       "summary": "Receive a grade scholarship for all semesters"
