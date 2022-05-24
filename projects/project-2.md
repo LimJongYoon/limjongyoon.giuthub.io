@@ -9,7 +9,7 @@ date: 2022-05-31
 labels:
   - MDPI electronics
   
-summary: Jongyoon Lim, Yongsoon Choi
+summary: <strong>Jongyoon Lim</strong>, Yongsoon Choi 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
