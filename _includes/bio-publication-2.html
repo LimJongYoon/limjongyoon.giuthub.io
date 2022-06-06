@@ -9,7 +9,7 @@
 {% for entry in site.data.bio.publications %}
   <div class="twelve wide column no-bottom">
     <p class="ui no-bottom">{{ entry.title }}</p>
-    <p class="ui no-bottom">{{ entry.author }}</p>
+    <p class="ui no-bottom">{{ entry.publisher }}, {{ entry.author }}</p>
     <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
   </div>
   <div class="four wide right aligned column no-bottom">
