@@ -150,7 +150,7 @@
   
   "publications":[
     {
-      "journal" : ""
+      "type" : "journal"
       "name": "name",
       "author": "author, author",
       "publisher": "publisher",
