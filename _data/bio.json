@@ -148,9 +148,10 @@
     }
   ],
   
-  "volunteer":[
+  "publications":[
     {
-      "position ": "name",
+      "journal" : ""
+      "name": "name",
       "author": "author, author",
       "publisher": "publisher",
       "releaseDate ": "2016-01-01",
