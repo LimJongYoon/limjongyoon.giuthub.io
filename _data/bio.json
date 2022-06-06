@@ -51,31 +51,21 @@
   ],
   "skills": [
     {
-      "name": "Programming Languages",
-      "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Python"
+      "subject": "Programming Languages",
+      "keyword":"C, C++, Python"  
+    },
+    {
+      "subject": "Tools and Frameworks",
+      "keyword": "Unity, Blender ,SPSS"
       ]
     },
     {
-      "name": "Tools and Frameworks",
-      "level": "",
-      "keywords": [
-        "Unity",
-        "Blender",
-        "SPSS"
-      ]
-    },
-    {
-      "name": "Engineering Skills",
-      "level": "",
-      "keywords": [
-        "Circuit design"
-      ]
+      "subject": "Engineering Skills",
+      "keyword": "Circuit design"
     }
   ],
+  
+  
   "education": [
     {
       "institution": "Sugang University , Seoul",
