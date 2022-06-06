@@ -49,6 +49,7 @@
       ]
     }
   ],
+  
   "skills": [
     {
       "subject": "Programming Languages",
@@ -87,6 +88,8 @@
       ]
     }
   ],
+  
+  
   "work": [
     {
       "company": "Suwon, Utsunomiya, Munich",
@@ -128,6 +131,8 @@
       "highlights": []
     }
   ],
+  
+  
   "activities": [
     {
       "title": "IoT smart convergence expert training program",
@@ -157,7 +162,7 @@
       "releaseDate ": "2016-01-01",
       "website  ": "http://manoa.hawaii.edu/reis",
       "summary ": "summary"
-    },
+    }
   ],
   
   
