@@ -92,6 +92,15 @@
   
   "work": [
     {
+      "company": "University of Soongsil",
+      "position": "Multimedia Signal Processing Lab",
+      "job": "Undergraduate Research intern advised by Dr.Gibak Kim",
+      "startDate": "2016-09-01",
+      "endDate": "2017-08-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "company": "Suwon, Utsunomiya, Munich",
       "position": "Canon Semiconductor Engineering Korea",
       "job": "Electrical Engineer",
@@ -118,15 +127,6 @@
       "website": "http://lifestylemedia.org",
       "startDate": "2021-09-01",
       "endDate": "2022-01-30",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "company": "University of Soongsil",
-      "position": "Multimedia Signal Processing Lab",
-      "job": "Research intern advised by Dr.Gibak Kim",
-      "startDate": "2016-09-01",
-      "endDate": "2017-08-31",
       "summary": "",
       "highlights": []
     }
