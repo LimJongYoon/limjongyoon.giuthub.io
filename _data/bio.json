@@ -100,41 +100,35 @@
   ],
   "work": [
     {
-      "company": "Canon Korea",
-      "position": "Engineer",
-      "website": "",
+      "company": "Suwon, Utsunomiya, Munich",
+      "position": "Canon Semiconductor Engineering Korea",
+      "job":"Electrical engineer",
+      "website": "https://sekr.canon/jp",
       "startDate": "2017-10-01",
       "endDate": "2019-05-01",
-      "summary": "Mechanical & Electrical engineering",
-      "highlights": [
-        "Factory Facility set-up and maintenance",
-        "Equipment programming to increase semiconductor yield by analyzing lens data",
-        "Dispatch experience at Canon Inc (Japan), 6 months",
-        "Business-trip to Infineon Tech (Germany), 3 months"
-      ]
     },
     {
-      "company": "Panopticon Korea (Start-up company)",
-      "position": "PM, Software Developer",
-      "website": "",
+      "company": "Seoul",
+      "position": "Panopticon Korea",
+      "job": "Product Design & Software developer",
+      "website": "https://www.panopticon.co.kr",
       "startDate": "2019-05-01",
       "endDate": "2021-06-30",
-      "summary": "Product Design & Software develop",
-      "highlights": [
-        "Planning and prototyping of a Helth-care device called Smart Cradle & Smart patch",
-        "Produce dedicated applications, test electronic components(sensors) and build circuits. Product Appearance Design"
-      ]
     },
     {
-      "company": "Life-style Lab (U.Sogang)",
-      "position": "PM",
-      "website": "",
+      "company": "University of Sogang",
+      "position": "Life-style Lab",
+      "job": "Research Assistant",
+      "website": "http://lifestylemedia.org",
       "startDate": "2021-09-01",
       "endDate": "2022-01-30",
-      "summary": "Product Design",
-      "highlights": [
-        "Planning of Multi-Modality devices"
-      ]
+    }
+    {
+      "company": "University of Soongsil",
+      "position": "Multimedia Signal Processing Lab",
+      "job": "Research intern advised by Dr.Gibak Kim",
+      "startDate": "2016-09-01",
+      "endDate": "2017-08-31",
     }
   ],
   "volunteer": [
