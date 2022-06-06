@@ -190,17 +190,15 @@
   ],
   "publications":[
     {
-      "name": "name",
+      "title": "name",
       "author": "author, author",
       "publisher": "publisher",
       "releaseDate ": "2016-01-01",
       "website  ": "http://manoa.hawaii.edu/reis",
       "summary ": "summary"
-    }
-  ],
-    "conference":[
+    },
     {
-      "name": "conferencename",
+      "title": "conferencename",
       "author": "author, author",
       "publisher": "publisher",
       "releaseDate ": "2016-01-01",
