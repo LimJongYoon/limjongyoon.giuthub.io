@@ -156,12 +156,21 @@
   "publications":[
     {
       "type" : "journal",
-      "name": "name",
-      "author": "author, author",
-      "publisher": "publisher",
-      "releaseDate ": "2016-01-01",
-      "website  ": "http://manoa.hawaii.edu/reis",
-      "summary ": "summary"
+      "name": "Force-Feedback Haptic Device for Representation of Tugs in Virtual Reality",
+      "author": "Jongyoon Lim, Yongsoon choi",
+      "publisher": "electronics MDPI",
+      "releaseDate ": "2022-05-30",
+      "website  ": "https://www.mdpi.com/2079-9292/11/11/1730",
+      "summary ": ""
+    },
+     {
+      "type" : "journal",
+      "name": "BirdVR: VR 컨트롤러의 형태와 콘텐츠 내 상호작용의 연계성을 높인 UX 디자인",
+      "author": "Kyoungmin Bang, Jongyoon Lim, Haree Jun, Hangyeol Jo, Jean Ho Chu",
+      "publisher": "The HCI Society of Korea Conference (2022), 813-815.",
+      "releaseDate ": "2022-02-30",
+      "website  ": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11043930",
+      "summary ": ""
     }
   ],
   
