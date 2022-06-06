@@ -190,7 +190,7 @@
   ],
   "publications":[
     {
-      "title": "name",
+      "name": "name",
       "author": "author, author",
       "publisher": "publisher",
       "releaseDate ": "2016-01-01",
@@ -198,7 +198,7 @@
       "summary ": "summary"
     },
     {
-      "title": "conferencename",
+      "name": "conferencename",
       "author": "author, author",
       "publisher": "publisher",
       "releaseDate ": "2016-01-01",
