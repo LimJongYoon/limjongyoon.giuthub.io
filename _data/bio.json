@@ -155,7 +155,7 @@
   
   "publications":[
     {
-      "type" : "journal"
+      "type" : "journal",
       "name": "name",
       "author": "author, author",
       "publisher": "publisher",
