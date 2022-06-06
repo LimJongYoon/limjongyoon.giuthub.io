@@ -9,7 +9,7 @@
 {% for entry in site.data.bio.work %}
   <div class="twelve wide column no-bottom">
     <p class="ui no-bottom"><b>{{ entry.position }},</b> {{ entry.company }}</p>
-     <p class="ui no-bottom">{{ entry.job }}</p>
+    <p class="ui no-bottom">{{ entry.job }}</p>
     <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
   </div>
   <div class="four wide right aligned column no-bottom">
