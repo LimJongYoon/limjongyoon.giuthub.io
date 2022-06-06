@@ -176,6 +176,16 @@
       "summary ": "summary"
     }
   ],
+    "conference":[
+    {
+      "name": "conferencename",
+      "author": "author, author",
+      "publisher": "publisher",
+      "releaseDate ": "2016-01-01",
+      "website  ": "http://manoa.hawaii.edu/reis",
+      "summary ": "summary"
+    }
+  ],
   "awards": [
     {
       "title": "White Horse Academic Excellence Scholarship",
