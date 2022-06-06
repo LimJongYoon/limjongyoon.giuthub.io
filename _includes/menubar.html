@@ -16,6 +16,6 @@
     {% if num_essays > 0 %}
     <a href="{{ site.baseurl }}/essays" class=" {% if include.active == "essays" %} active {% endif %} item">Essays ({{ num_essays }})</a>
     {% endif %}
-    <a href="https://drive.google.com/file/d/1NXkWPySoswpuWAd_Eo7G9t54eF6nAgaw/view?usp=drivesdk" class=" {% if include.active == "bio" %} active {% endif %} item">{{ site.bio-page-label }}</a>
+    <a href="{{ site.baseurl }}/bio" class=" {% if include.active == "bio" %} active {% endif %} item">{{ site.bio-page-label }}</a>
   </nav>
 </div>
