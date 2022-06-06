@@ -1,12 +1,12 @@
 <!-- Used by theme-bio-builtin-2 -->
 
-{% if site.data.bio.publications%}
+{% if site.data.bio.publication%}
 <div class="sixteen wide column no-bottom">
   <h3 class="ui left aligned header no-bottom">Publications</h3>
   <hr style="margin: 0px;">
 </div>
 
-{% for entry in site.data.bio.publications %}
+{% for entry in site.data.bio.publication %}
   <div class="sixteen wide column no-bottom">
     <p class="ui no-bottom">
       <b>{{ entry.name }}</b>{% if entry.author and entry.author != "" %}, {{ entry.author }}{% endif %}, <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
