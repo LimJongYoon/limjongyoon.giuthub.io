@@ -16,6 +16,11 @@
     },
     "profiles": [
       {
+        "network": "Google Scholar",
+        "username": "Jongyoon Lim",
+        "url": "https://scholar.google.co.kr/citations?user=5JElU_AAAAAJ&hl=en"
+      },      
+      {
         "network": "instagram",
         "username": "_limjongyoon_",
         "url": "https://www.instagram.com/_limjongyoon_/"
