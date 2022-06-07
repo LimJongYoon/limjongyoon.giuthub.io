@@ -50,7 +50,7 @@
   {% for entry in site.data.bio.publications %}
     {% if entry.type == "journal" %}
       <p class="ui no-bottom">
-        {{ entry.name }}{% if entry.author and entry.author != "" %}<br>{{ entry.author }}{% endif %}<br><em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}
+        <b>{{ entry.name }}</b> | <em>{{ entry.publisher }}</em>, {{ entry.releaseDate }}<br>{% if entry.author and entry.author != "" %}{{ entry.author }}{% endif %}
         {% if entry.website %}
           <p class="ui no-bottom"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
         {% endif %}
