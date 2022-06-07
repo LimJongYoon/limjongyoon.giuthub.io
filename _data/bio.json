@@ -140,19 +140,19 @@
   
   "activities": [
     {
-      "title": "IoT smart convergence expert training program",
-      "company": "Seoul National University of Science and Technology, Intel Korea",
-      "website": "",
-      "startDate": "2016-10-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
       "title": "VR/AR Professional Project Team",
       "company": "Korea Electronics Association",
       "website": "http://www.xrpro.or.kr",
       "startDate": "2020-01-01",
       "endDate": "2021-08-31",
+      "summary": "",
+      "highlights": []
+    },    
+    {
+      "title": "IoT smart convergence expert training program",
+      "company": "Seoul National University of Science and Technology, Intel Korea",
+      "website": "",
+      "startDate": "2016-10-01",
       "summary": "",
       "highlights": []
     }
@@ -182,16 +182,16 @@
   
   "awards": [
     {
-      "title": "White Horse Academic Excellence Scholarship",
-      "date": "2014-2018",
-      "awarder": "University of Soongsil",
-      "summary": ""
-    },
-    {
       "title": "Device for baby monitoring Design Patent",
       "date": "2021",
       "awarder": "the Korean Intellectual Property Office",
       "summary": "application number: <a href=https://drive.google.com/file/d/1V1D063r4XiAlAJalmR20d9qYtz21Xe6s/view?usp=sharing>30-2020-0032785</a>, <a href=https://drive.google.com/file/d/1w6Cu8fUQUpEowBifyDddp6G97NOJXSbh/view?usp=sharing>30-2020-0032786</a>, <a href=https://drive.google.com/file/d/1sr1A00fzhrhU2Cw7uwqCIZscb7vjrWuc/view?usp=sharing>30-2020-0032787</a>, <a href=https://drive.google.com/file/d/1whpaIRO-K0DGlX_l5zHySoDybKEoI7g6/view?usp=sharing>30-2020-0032788</a>, <a href=https://drive.google.com/file/d/1sY3X5UNSS2BET6KE_C2xXw5bMNnyFgXt/view?usp=sharing>30-2020-0032789</a>, <a href=https://drive.google.com/file/d/1euu6Ae0P4vzA1j7cdKMqTLQWU_4oQNLt/view?usp=sharing>30-2020-0032790</a>"
+    },    
+    {
+      "title": "White Horse Academic Excellence Scholarship",
+      "date": "2014-2018",
+      "awarder": "University of Soongsil",
+      "summary": ""
     }
   ],
   
