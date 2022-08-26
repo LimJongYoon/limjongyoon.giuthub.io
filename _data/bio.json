@@ -19,17 +19,17 @@
         "network": "Google Scholar",
         "username": "Google Scholar",
         "url": "https://scholar.google.co.kr/citations?user=5JElU_AAAAAJ&hl=en"
-      },      
-      {
-        "network": "instagram",
-        "username": "Instagram",
-        "url": "https://www.instagram.com/_limjongyoon_/"
-      }
+      },
       {
         "network": "LinkedIn",
         "username": "LinkedIn",
         "url": "https://www.linkedin.com/in/jongyoon-lim-b28421210/"
       },  
+      {
+        "network": "instagram",
+        "username": "Instagram",
+        "url": "https://www.instagram.com/_limjongyoon_/"
+      }
     ]
   },
   "interests": [
