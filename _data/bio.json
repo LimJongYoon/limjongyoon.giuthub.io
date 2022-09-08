@@ -29,6 +29,12 @@
         "network": "instagram",
         "username": "Instagram",
         "url": "https://www.instagram.com/_limjongyoon_/"
+      },
+      {
+        "network": "YouTube",
+        "username": "YouTube",
+        "url": "https://www.youtube.com/channel/UCg4cqaynmsFhh4vbZXImGig"
+        
       }
     ]
   },
