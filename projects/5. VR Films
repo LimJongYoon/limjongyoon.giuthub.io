@@ -1,0 +1,30 @@
+---
+layout: project
+type: project
+image: images/vrfilms.png
+title: Eliminate the sense of heterogeneity of VR devices by wearing goggles in a virtual environment
+permalink: projects/vrfilms
+# All dates must be YYYY-MM-DD format!
+date: 2020-07-15
+labels:
+  - KT Super VR contest
+  
+summary: <strong>Jongyoon Lim</strong>
+---
+<br>
+
+
+<BR>
+  
+<img class="ui image" src="{{ site.baseurl }}/images/vrfilms.png">
+
+
+
+<BR><BR><BR><BR><BR><BR><BR><BR><BR>
+
+<hr>
+
+ <b>Work</b> : Unity programming, developer, rigging <br><BR><BR>
+
+  
+  <BR><BR><BR><BR><BR>
