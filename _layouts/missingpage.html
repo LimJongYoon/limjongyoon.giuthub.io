@@ -17,7 +17,7 @@ layout: default
 
   <h3>Projects</h3>
   <ul>
-    {% assign project_pages = site.pages | where: "type", "project" | sort: "title" %}
+    {% assign project_pages = site.pages | where: "type", "project" | sort: "date" %}
     {% for page in project_pages %}
     <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
     {% endfor %}
