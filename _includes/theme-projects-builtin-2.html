@@ -1,3 +1,15 @@
+<div style="padding-top: 20px" class="ui container ">
+<h3>Essays</h3>
+  <div class="ui stackable centered four cards">
+    {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
+      {% for page in essay_pages %}
+        {% unless page.draft %}
+          {% include essay-card.html page=page %}
+        {% endunless %}
+      {% endfor %}
+  </div>
+</div>
+
 <div style="padding-top: 20px" class="ui four column centered stackable grid container">
 <h3>Projects</h3>
   {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
