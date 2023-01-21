@@ -1,7 +1,7 @@
 <div style="padding-top: 20px" class="ui four column centered stackable grid container">
 
-  {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
-  {% for page in project_pages %}
+  {% assign paper_pages = site.pages | where: "type", "paper" | sort: "date" | reverse %}
+  {% for page in paper_pages %}
     {% unless page.draft %}
       {% include papers-row.html page=page %}
     {% endunless %}
