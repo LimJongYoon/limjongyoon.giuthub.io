@@ -1,3 +1,19 @@
+
+<div style="padding-top: 20px" class="ui four column centered stackable grid container">
+  <div style="text-align: left", class="nine wide left aligned column">
+    <h1>
+    <span style="color:#808080;">Papers</span>
+    </h1>
+    <hr style="margin-top: 10px">
+  </div>
+  {% assign essay_pages = site.pages | where: "type", "essay" | sort: "date" | reverse %}
+  {% for page in essay_pages %}
+    {% unless page.draft %}
+      {% include essay-row.html page=page %}
+    {% endunless %}
+  {% endfor %}
+</div>
+
 <div style="padding-top: 20px" class="ui four column centered stackable grid container", id="projects">
   <div style="text-align: left", class="nine wide left aligned column">
     <h1>
