@@ -11,7 +11,7 @@
       <img class="ui avatar image" src="{{ site.data.bio.basics.picture }}"><span>{{ site.data.bio.basics.name }}</span>
     </a>
     {% if num_essays > 0 %}
-    <a href="{{ site.baseurl }}/projects/#papers" class=" {% if include.active == "essays" %} active {% endif %} item">Papers ({{ num_essays }})</a>
+    <a href="{{ site.baseurl }}/projects/" class=" {% if include.active == "essays" %} active {% endif %} item">Papers ({{ num_essays }})</a>
     {% endif %}
     {% if num_projects > 0 %}
     <a href="{{ site.baseurl }}/projects/#projects" class=" {% if include.active == "projects" %} active {% endif %}item">Projects ({{ num_projects }})</a>
