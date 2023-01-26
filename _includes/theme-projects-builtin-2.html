@@ -1,6 +1,5 @@
-<style>h1 { text-align: left;}</style>
 <div style="padding-top: 20px" class="ui four column centered stackable grid container">
-  <h1>Projects</h1>
+  <h1>Projects</h1><style>h1{ text-align: left;}</style>
   {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
   {% for page in project_pages %}
     {% unless page.draft %}
