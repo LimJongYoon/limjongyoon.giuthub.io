@@ -1,6 +1,6 @@
 <div style="padding-top: 20px" class="ui four column centered stackable grid container">
   <h1>
-    <span style="color:#808080;", style="text-align:left;">Projects</span>
+    <span style="color:#808080;", style="text-align:left;", style = "text-shadow: 5px 3px 5px #C0C0C0">Projects</span>
   </h1>
   {% assign project_pages = site.pages | where: "type", "project" | sort: "date" | reverse %}
   {% for page in project_pages %}
