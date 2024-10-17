@@ -1,0 +1,92 @@
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>질문 작성 및 요청 보내기</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        button, input[type="text"] {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        .response {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>질문 작성 및 서버로 요청 보내기</h1>
+
+    <label for="question">질문을 입력하세요:</label>
+    <input type="text" id="question" placeholder="여기에 질문을 입력하세요" />
+
+    <button onclick="sendRequest('http://atfuturelab.sogang.ac.kr:40000/03569')">우제류</button>
+    <button onclick="sendRequest('http://atfuturelab.sogang.ac.kr:40000/06616')">마두</button>
+    <button onclick="sendRequest('http://atfuturelab.sogang.ac.kr:40000/07812')">트리</button>
+
+    <div class="response" id="response">
+        여기 응답이 표시됩니다.
+    </div>
+</div>
+
+<script>
+    function sendRequest(url) {
+        const questionText = document.getElementById('question').value;
+        const data = { question: questionText };
+
+        // Fetch API로 POST 요청 보내기
+        fetch(url, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify(data)
+        })
+        .then(response => response.json()) // JSON 응답 처리
+        .then(data => {
+            // 응답 데이터를 HTML에 표시
+            document.getElementById('response').innerText = `응답: ${JSON.stringify(data)}`;
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            document.getElementById('response').innerText = '응답을 받는 중 오류가 발생했습니다.';
+        });
+    }
+</script>
+
+</body>
+</html>
